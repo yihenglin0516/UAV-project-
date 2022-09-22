@@ -1,2 +1,2 @@
-# UAV-project-
-UAV project of prof Liu's class using Tello drone 
+# UAV-project- 
+This project involve localization , system identification and contorl of tello UAV
